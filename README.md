@@ -16,6 +16,4 @@ I am Shriniwas Ahirrao, a dedicated student and skilled developer. <br>Fueled by
 ---
 [![](https://visitcount.itsvg.in/api?id=ahirrao10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Metrics](https://metrics.lecoq.io/ShriniwasAhirrao?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
-
        
