@@ -38,3 +38,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set Environment Variables
+        run: |
+          echo "GITHUB_CONTRIBUTION_GRID_SNAKE_GIF=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
+          echo "GITHUB_CONTRIBUTION_GRID_SNAKE_SVG=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
