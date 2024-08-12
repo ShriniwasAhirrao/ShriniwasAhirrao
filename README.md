@@ -10,6 +10,5 @@ I am Shriniwas Ahirrao, a dedicated student and skilled developer. <br>Fueled by
 
 ###
 ---
-[![](https://visitcount.itsvg.in/api?id=ShriniwasAhirrao&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=ShriniwasAhirrao&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
        
